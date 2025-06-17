@@ -23,7 +23,7 @@
             }
             img {
                 display: block;
-                margin: 0 auto 2rem;
+                margin-bottom: 2rem;
                 max-width: 220px;
             }
         </style>
