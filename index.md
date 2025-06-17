@@ -1,5 +1,5 @@
 # Terms and Conditions
-**Effective Date:** 17 June 2025<br>
+**Effective Date:** June 2025<br>
 **Business Name:** Kelly Creative<br>
 **Location:** Peregian Springs, QLD 4567, Australia
 
@@ -16,11 +16,11 @@ These Terms and Conditions ("Terms") govern all services provided by **Kelly Cre
 Kelly Creative provides full-stack web design services, including:
 
 - Website planning, UI/UX, and visual design
-- WordPress development (including Breakdance Pro)
-- Hosting advice (not provisioning)
+- WordPress development
+- Hosting advice (not provisioning, unless contracted)
 - SEO setup, performance optimisation, and maintenance
 
-Project-specific deliverables will be agreed upon in writing (e.g., Proposal or Statement of Work).
+Project-specific deliverables will be agreed upon in writing (e.g., Proposal or Statement of Work (SOW)).
 
 ---
 
@@ -30,7 +30,7 @@ Project-specific deliverables will be agreed upon in writing (e.g., Proposal or 
 - Payments are accepted via bank transfer, Stripe, or other methods arranged prior to commencement.
 - All quoted amounts are in **AUD and exclusive of GST**, unless otherwise stated.
 
-Failure to pay within 7 business days of final invoice may result in administrative fees or collection actions.
+Failure to pay within 7 business days of the final invoice may result in administrative fees, collection actions, or Site Dissruptions.
 
 ---
 
@@ -38,7 +38,7 @@ Failure to pay within 7 business days of final invoice may result in administrat
 
 - Upon **final payment**, the client receives **full ownership** of the website files and design output, excluding:
 - Any third-party plugins or fonts used under external licenses
-- Frameworks or builder software (e.g. WordPress, Breakdance Pro) which remain under their respective licenses
+- Frameworks or builder software (e.g. WordPress, Breakdance Pro, etc.) that remain under their respective licenses
 - Kelly Creative retains the right to showcase finished work in its portfolio unless explicitly agreed otherwise.
 
 ---
@@ -46,7 +46,7 @@ Failure to pay within 7 business days of final invoice may result in administrat
 ## 5. Revisions & Support
 
 - Projects include **two (2) rounds of revisions per page** unless otherwise stated in the SOW.
-- Additional revisions or requests outside scope may incur additional charges.
+- Additional revisions or requests outside the scope will incur additional charges.
 - Basic post-launch support is offered for 14 days after handover. Extended maintenance packages are available on request.
 
 ---
@@ -85,5 +85,4 @@ These Terms shall be governed by and interpreted in accordance with the laws of 
 
 For any questions or concerns regarding these Terms:
 **Kevin Kelly**
-Email: [your-email@example.com]
-ABN: [Insert ABN if applicable]
+Email: giddaykev@gmail.com
