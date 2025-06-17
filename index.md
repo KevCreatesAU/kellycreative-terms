@@ -32,16 +32,18 @@
             }
             img {
                 display: block;
-                margin-bottom: 90px;
                 max-width: 220px;
             }
+          .rdp {
+            margin-bottom: 90px;
+          }
         </style>
     </head>
     <body>
         <a href="https://kevcreatesau.github.io/kellycreative-terms/">
             <img src="logo@2x.png" alt="Kelly Creative Logo" width="220" />
         </a>
-        <p>Design &#8226; Redesign &#8226; Performance</p>
+        <p class="rdp">Design &#8226; Redesign &#8226; Performance</p>
 
         <h2>Terms and Conditions</h2>
         <p>Effective Date: <strong>July 2024</strong></p>
