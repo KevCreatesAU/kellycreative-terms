@@ -1,3 +1,7 @@
+<p>
+  <img src="logo@2x.png" alt="Kelly Creative Logo" width="220" />
+</p>
+
 # Terms and Conditions
 **Effective Date:** June 2025<br>
 **Business Name:** Kelly Creative<br>
