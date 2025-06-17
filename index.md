@@ -15,6 +15,7 @@
             }
             *, h1, h2, h3, h4, h5, h6, p, li, ul, a {
               font-family: 'Quicksand', 'Segoe UI', 'Helvetica Neue', sans-serif !important;
+              font-weight: 400 sans-serif !important;
             }
             h1 {
               clip-path: inset(50%);
@@ -37,9 +38,9 @@
                 display: block;
                 max-width: 220px;
             }
-          .rdp {
-            margin-bottom: 90px;
-          }
+            .rdp {
+              margin: 0 0 90px 20px !important;
+            }
         </style>
     </head>
     <body>
