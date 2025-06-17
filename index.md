@@ -32,7 +32,7 @@
             }
             img {
                 display: block;
-                margin: 0 auto 2rem;
+                margin-bottom: 90px;
                 max-width: 220px;
             }
         </style>
@@ -41,6 +41,7 @@
         <a href="https://kevcreatesau.github.io/kellycreative-terms/">
             <img src="logo@2x.png" alt="Kelly Creative Logo" width="220" />
         </a>
+        <p>Design &#8226; Redesign &#8226; Performance</p>
 
         <h2>Terms and Conditions</h2>
         <p>Effective Date: <strong>July 2024</strong></p>
