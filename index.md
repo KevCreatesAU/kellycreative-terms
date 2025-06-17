@@ -83,6 +83,6 @@ These Terms shall be governed by and interpreted in accordance with the laws of 
 
 ## 10. Contact
 
-For any questions or concerns regarding these Terms:
-**Kevin Kelly**
+For any questions or concerns regarding these Terms:<br>
+Contant **Kevin Kelly**<br>
 Email: giddaykev@gmail.com
