@@ -1,6 +1,9 @@
 # Terms and Conditions
+
 **Effective Date:** 17 June 2025
+
 **Business Name:** Kelly Creative
+
 **Location:** Peregian Springs, QLD 4567, Australia
 
 ---
