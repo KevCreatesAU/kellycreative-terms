@@ -11,7 +11,7 @@
       margin: 0 auto;
       padding: 2rem;
       line-height: 1.6;
-      color: #333;
+      color: #222;
       background: #fff;
     }
     h1 {
@@ -43,8 +43,8 @@
   </style>
 </head>
 <body>
+
 <a href="https://kevcreatesau.github.io/kellycreative-terms/">kellycreative-terms</a><img src="logo@2x.png" alt="Kelly Creative Logo" width="220" /><a>
----
 
 # Terms and Conditions
 **Effective Date:** June 2025<br>
