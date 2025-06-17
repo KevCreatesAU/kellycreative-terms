@@ -1,6 +1,40 @@
-<p>
-  <img src="logo@2x.png" alt="Kelly Creative Logo" width="220" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kelly Creative Terms and Conditions</title>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Quicksand', sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+      line-height: 1.6;
+      color: #333;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      color: #E5522B;
+    }
+    strong {
+      color: #E5522B;
+    }
+    img {
+      display: block;
+      margin: 0 auto 2rem;
+      max-width: 220px;
+    }
+    hr {
+      margin: 2rem 0;
+      border: none;
+      border-top: 1px solid #eee;
+    }
+  </style>
+</head>
+<body>
+<img src="logo@2x.png" alt="Kelly Creative Logo" width="220" />
+---
 
 # Terms and Conditions
 **Effective Date:** June 2025<br>
