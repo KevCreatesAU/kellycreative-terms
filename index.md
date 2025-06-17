@@ -14,7 +14,17 @@
       color: #333;
       background: #fff;
     }
-    h1, h2, h3 {
+    h1 {
+      clip-path: inset(50%);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+      white-space: nowrap;
+    }
+    h2, h3 {
       color: #E5522B;
     }
     strong {
@@ -33,7 +43,7 @@
   </style>
 </head>
 <body>
-<img src="logo@2x.png" alt="Kelly Creative Logo" width="220" />
+<a href="https://kevcreatesau.github.io/kellycreative-terms/">kellycreative-terms</a><img src="logo@2x.png" alt="Kelly Creative Logo" width="220" /><a>
 ---
 
 # Terms and Conditions
@@ -124,3 +134,6 @@ These Terms shall be governed by and interpreted in accordance with the laws of 
 For any questions or concerns regarding these Terms:<br>
 Contant **Kevin Kelly**<br>
 Email: giddaykev@gmail.com
+
+</body>
+</html>
