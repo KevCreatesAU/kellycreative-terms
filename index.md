@@ -5,13 +5,16 @@
         <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet" />
         <style>
             body {
-                font-family: 'Quicksand', 'Segoe UI', 'Helvetica Neue', sans-serif;
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 2rem;
-                line-height: 1.6;
-                color: #222;
-                background: #fff;
+              font-family: 'Quicksand', 'Segoe UI', 'Helvetica Neue', sans-serif !important;
+              max-width: 800px;
+              margin: 0 auto;
+              padding: 2rem;
+              line-height: 1.6;
+              color: #222;
+              background: #fff;
+            }
+            *, h1, h2, h3, h4, h5, h6, p, li, ul, a {
+              font-family: 'Quicksand', 'Segoe UI', 'Helvetica Neue', sans-serif !important;
             }
             h1 {
               clip-path: inset(50%);
