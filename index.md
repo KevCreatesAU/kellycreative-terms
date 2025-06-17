@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
@@ -14,6 +13,16 @@
                 color: #222;
                 background: #fff;
             }
+            h1 {
+              clip-path: inset(50%);
+              height: 1px;
+              margin: -1px;
+              overflow: hidden;
+              padding: 0;
+              position: absolute;
+              width: 1px;
+              white-space: nowrap;
+            }
             h2 {
                 color: #e5522b;
             }
@@ -23,7 +32,7 @@
             }
             img {
                 display: block;
-                margin-bottom: 2rem;
+                margin: 0 auto 2rem;
                 max-width: 220px;
             }
         </style>
